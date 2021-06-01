@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andreas/code/a-mger/TaxiFareModel/mlruns/1/e628a714d96f4859a26d359e7877ea4d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e628a714d96f4859a26d359e7877ea4d
+run_uuid: e628a714d96f4859a26d359e7877ea4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622552752620
+status: 1
+tags: []
+user_id: unknown
